@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572258630 source:d:\university\programming\semester 5\game programming\game_elemen\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
